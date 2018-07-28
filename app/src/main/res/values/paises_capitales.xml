@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- cada posición referencía a un string array -->
+    <array name="array_pais_capital">
+        <item>@array/capital_Australia</item>
+        <item>@array/capital_EstadosFederadosdeMicronesia</item>
+        <item>@array/capital_Fiji</item>
+        <item>@array/capital_IslasMarshall</item>
+        <item>@array/capital_IslasSalomon</item>
+        <item>@array/capital_Kiribati</item>
+        <item>@array/capital_Nauru</item>
+        <item>@array/capital_NuevaZelanda</item>
+        <item>@array/capital_Palau</item>
+        <item>@array/capital_PapuaNuevaGuinea</item>
+        <item>@array/capital_Samoa</item>
+        <item>@array/capital_Tonga</item>
+        <item>@array/capital_Tuvalu</item>
+        <item>@array/capital_Vanuatu</item>
+    </array>
+
+
+    <string-array name="paises">
+        <item>Australia</item>
+        <item>Estados Federados de Micronesia</item>
+        <item>Fiji</item>
+        <item>Islas Marshall</item>
+        <item>Islas Salomón</item>
+        <item>Kiribati</item>
+        <item>Nauru</item>
+        <item>Nueva Zelanda</item>
+        <item>Palau</item>
+        <item>Papúa Nueva Guinea</item>
+        <item>Samoa</item>
+        <item>Tonga</item>
+        <item>Tuvalu</item>
+        <item>Vanuatu</item>
+    </string-array>
+
+    <string-array name="capital_Australia">
+        <item>Canberra</item>
+    </string-array>
+
+    <string-array name="capital_EstadosFederadosdeMicronesia">
+        <item>Palikir</item>
+    </string-array>
+
+    <string-array name="capital_Fiji">
+        <item>Suva</item>
+    </string-array>
+
+    <string-array name="capital_IslasMarshall">
+        <item>Majuro</item>
+    </string-array>
+
+    <string-array name="capital_IslasSalomon">
+        <item>Honiara</item>
+    </string-array>
+
+    <string-array name="capital_Kiribati">
+        <item>Bairiki</item>
+    </string-array>
+
+    <string-array name="capital_Nauru">
+        <item>Yaren</item>
+    </string-array>
+
+    <string-array name="capital_NuevaZelanda">
+        <item>Wellington</item>
+    </string-array>
+
+    <string-array name="capital_Palau">
+        <item>Koror</item>
+    </string-array>
+
+    <string-array name="capital_PapuaNuevaGuinea">
+        <item>Port Moresby</item>
+    </string-array>
+
+    <string-array name="capital_Samoa">
+        <item>Apia</item>
+    </string-array>
+
+    <string-array name="capital_Tonga">
+        <item>Nukualofa</item>
+    </string-array>
+
+    <string-array name="capital_Tuvalu">
+        <item>Fongafale</item>
+    </string-array>
+
+    <string-array name="capital_Vanuatu">
+        <item>Port Vila</item>
+    </string-array>
+</resources>

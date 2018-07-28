@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Capitales</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="provincia_prompt">Elija un pais</string>
+    <string name="localidad_prompt">Elija una capital</string>
+    <string name="comprobar">Comprobar</string>
+    <string name="message">Ha seleccionado %1$s (%2$s)</string>
+</resources>
